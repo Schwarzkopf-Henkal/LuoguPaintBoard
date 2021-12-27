@@ -156,3 +156,7 @@ Options={
 3. 缩放图像。
 4. Ctrl+Shift+Alt+S, 然后 Preset 选择 LuoguPaintBoard, Dither 自行选择。
 5. 导出为 bmp 即可。
+
+#### 致谢
+
+使用了 @ouuan [https://github.com/ouuan/LuoguPaintBoard](https://github.com/ouuan/LuoguPaintBoard) 仓库的内容，去年我的冬日绘版就是用他的脚本画的，非常感谢。
